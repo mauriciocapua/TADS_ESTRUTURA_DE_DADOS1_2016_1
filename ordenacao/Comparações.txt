@@ -1,0 +1,11 @@
+BubbleSort: 51 ciclos - ShellSort 4 ciclos
+
+Pode-se notar uma diferença grande de desempenho entre os métodos bubblesort e shellsort
+ShellSort sendo muito mais eficiente.
+
+-------------------------------------------------------------
+
+Comparação Bubble - Shell - Hash
+Método Hash optimiza a busca de informações pelo uso de calculo de posição, utilizado tanto na criação do vetor quanto na busca,
+sem a necessidade de percorrer todo o vetor como os outros métodos.
+

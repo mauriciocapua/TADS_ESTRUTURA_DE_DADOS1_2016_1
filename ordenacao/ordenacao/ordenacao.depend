@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1481502537 source:d:\meus documentos\ifrs\netbeansprojects\tads_homework\estrutura de dados i\ordenacao\ordenacao\main.c
+	"lib.h"
+
+1481502297 d:\meus documentos\ifrs\netbeansprojects\tads_homework\estrutura de dados i\ordenacao\ordenacao\lib.h
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
